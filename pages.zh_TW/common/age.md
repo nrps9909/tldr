@@ -1,7 +1,7 @@
 # age
 
 > 一個簡潔、現代且安全的檔案加密工具。
-> 另請參閱：`age-keygen`、`age-inspect`。
+> 另請參閱：`age-keygen`, `age-inspect`。
 > 更多資訊：<https://github.com/FiloSottile/age#usage>。
 
 - 產生可使用密碼片語解密的加密檔案：
